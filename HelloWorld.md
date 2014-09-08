@@ -17,10 +17,10 @@
 
 > blockquotes!
 
-** bold **
-* italic *
+**bold**
+*italic*
 
-** Combination of BOLD _and italic_ text **
+**Combination of BOLD _and italic_ text**
 
 `monospace type`
 
